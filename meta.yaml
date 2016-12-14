@@ -1,0 +1,15 @@
+package:
+  name: fly
+  version: 2.5.2
+
+source:
+  git_url: https://github.com/concourse/concourse.git
+  git_rev: v2.5.1
+
+about:
+  home: https://github.com/concourse/fly
+  license: Apache
+  license_file: LICENSE.md
+  summary: A command line interface that runs a build in a container with ATC.
+  description: |
+   A command line interface that runs a build in a container with ATC.
